@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Valdo Souza
-- 👀 I’m interested in NodeJs / Flutter
+- 👀 I’m interested in NodeJs / Flutter / Delphi / Unigui / Java / JavaScript / 
+-     PHP (I'm little bit rusty with this)
 - 🌱 I’m currently learning  NodeJs / Flutter
       and also I'm working on projects with Delphi/Firebird/Flutter/NodeJs/Mysql/
 - 💞️ I’m looking to collaborate on projects Flutter and  NodeJs Api's
